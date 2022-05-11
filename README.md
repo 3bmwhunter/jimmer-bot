@@ -2,4 +2,6 @@
 twitter bot
 
 
-test 2
+# build and run
+`npm run build`
+`npm run run`
